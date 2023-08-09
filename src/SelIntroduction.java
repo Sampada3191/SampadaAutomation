@@ -23,7 +23,7 @@ public class SelIntroduction {
 		driver.findElement(By.id("password")).sendKeys("secret_sauce");
 		driver.findElement(By.id("login-button")).click();
 		driver.findElement(By.id("add-to-cart-sauce-labs-backpack")).click();
-		System.out.println("TEsting");
+		System.out.println("TEsting selenium");
 	
 		
 		
